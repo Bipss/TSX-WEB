@@ -117,7 +117,7 @@
 			  <div class="row featurette">
 				<div class="col-md-7">
 				  <h2 class="featurette-heading">Silence ça tourne !<span class="text-muted">#faire_une_record</span></h2>
-				  <p class="lead">Vous aimeriez apprendre à filmer vos actions en jeu ? Ou tout simplement faire un reportage en caméra caché pour dénoncer des comportements nuisibles à la communauté ?
+				  <p class="lead">Vous aimeriez apprendre à filmer vos actions en jeu ? Ou tout simplement faire un reportage en caméra cachée pour dénoncer des comportements nuisibles à la communauté ?
 				  Rien de plus simple, après ce petit stage vous deviendrez le roi des caméras cachées... <a href="/index.php?page=aide&sub=record">lire plus</a></p>
 				</div>
 				<div class="col-md-5">
